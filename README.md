@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Docker, Web development, Data Science, AI,...<br>🎯 Goals: Become an AI engineer and website developer.<br>🎲 Fun fact: ...........</p>
+<p align="left">📚 I'm currently learning Docker, Web development, Data Science, AI,...<br>🎯 Goals: Become an AI engineer and Frontend developer.<br>🎲 Fun fact: ...........</p>
 
 ###
 
