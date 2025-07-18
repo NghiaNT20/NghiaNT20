@@ -172,20 +172,33 @@ console.log("Ready to build the future with AI! 🚀");
   <img src="https://github-profile-trophy.vercel.app/?username=NghiaNT20&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-## 🐍 Contribution Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NghiaNT20/NghiaNT20/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ## 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/NghiaNT20/Driver-Monitoring-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NghiaNT20&repo=project1&theme=tokyonight" alt="Project 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NghiaNT20&repo=Driver-Monitoring-System&theme=tokyonight" alt="Driver Monitoring System"/>
   </a>
   <a href="https://github.com/NghiaNT20/Resume_Parsing_Yolo_LLM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NghiaNT20&repo=project2&theme=tokyonight" alt="Project 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NghiaNT20&repo=Resume_Parsing_Yolo_LLM&theme=tokyonight" alt="Resume Parsing YOLO LLM"/>
   </a>
+</div>
+
+<div align="center">
+  <h3>🚀 Project Highlights</h3>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4>🚗 Driver Monitoring System</h4>
+        <p>AI-powered system for real-time driver behavior monitoring using computer vision and machine learning</p>
+        <p><strong>Tech:</strong> Python, OpenCV, AI/ML, Computer Vision</p>
+      </td>
+      <td align="center" width="50%">
+        <h4>📄 Resume Parsing YOLO LLM</h4>
+        <p>Intelligent resume parsing system combining YOLO object detection with Large Language Models</p>
+        <p><strong>Tech:</strong> Python, YOLO, LLM, NLP, AI</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📈 Activity Graph
