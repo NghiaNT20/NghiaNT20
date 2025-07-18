@@ -174,7 +174,7 @@ console.log("Ready to build the future with AI! 🚀");
 
 ## 🐍 Contribution Graph
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NghiaNT20/NghiaNT20/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NghiaNT20&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ## 🌟 Featured Projects
