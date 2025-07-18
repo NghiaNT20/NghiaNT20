@@ -183,24 +183,6 @@ console.log("Ready to build the future with AI! 🚀");
   </a>
 </div>
 
-<div align="center">
-  <h3>🚀 Project Highlights</h3>
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h4>🚗 Driver Monitoring System</h4>
-        <p>AI-powered system for real-time driver behavior monitoring using computer vision and machine learning</p>
-        <p><strong>Tech:</strong> Python, OpenCV, AI/ML, Computer Vision</p>
-      </td>
-      <td align="center" width="50%">
-        <h4>📄 Resume Parsing YOLO LLM</h4>
-        <p>Intelligent resume parsing system combining YOLO object detection with Large Language Models</p>
-        <p><strong>Tech:</strong> Python, YOLO, LLM, NLP, AI</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NghiaNT20&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph"/>
