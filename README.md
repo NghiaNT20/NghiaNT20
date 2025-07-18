@@ -46,50 +46,6 @@
   </blockquote>
 </div>
 
-```typescript
-const nghia = {
-  name: "Nghia Nguyen Trong",
-  title: "AI Engineer & Full Stack Developer",
-  location: "Vietnam 🇻🇳",
-  
-  expertise: {
-    ai: ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
-    web: ["React", "Node.js", "FastAPI", "Full Stack Development"],
-    automation: ["n8n", "Make.com", "Workflow Automation"],
-    data: ["Data Analysis", "Data Visualization", "Statistical Modeling"]
-  },
-  
-  currentlyLearning: [
-    "Advanced AI/ML Algorithms",
-    "Docker & Containerization", 
-    "Cloud Computing",
-    "AI Automation"
-  ],
-  
-  goals: {
-    shortTerm: "Master AI Engineering & MLOps",
-    longTerm: "Build AI solutions that make a real impact",
-    dream: "Contribute to the future of AI technology"
-  },
-  
-  funFacts: [
-    "I can debug code faster than I can make coffee ☕",
-    "I love solving complex problems with elegant solutions ✨",
-    "I believe AI will change the world for the better 🌍"
-  ],
-  
-  motto: "Learn, Build, Share, Repeat 🔄",
-  
-  contact: {
-    email: "nghianguyen.200303@gmail.com",
-    linkedin: "https://www.linkedin.com/in/tr%E1%BB%8Dng-ngh%C4%A9a-44a251269/",
-    github: "github.com/NghiaNT20"
-  }
-};
-
-console.log("Ready to build the future with AI! 🚀");
-```
-
 <div align="center">
   <h3>📊 Quick Stats</h3>
   <table>
@@ -117,7 +73,6 @@ console.log("Ready to build the future with AI! 🚀");
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=60&section=footer"/>
 </div>
-```
 
 ## 🛠️ Tech Stack & Tools
 
