@@ -174,7 +174,7 @@ console.log("Ready to build the future with AI! 🚀");
 
 ## 🐍 Contribution Graph
 <div align="center">
-  <img src="https://github.com/NghiaNT20/NghiaNT20/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/NghiaNT20/NghiaNT20/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 🌟 Featured Projects
