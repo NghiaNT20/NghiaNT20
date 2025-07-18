@@ -12,19 +12,111 @@
 
 ## 🚀 About Me
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=Welcome%20to%20My%20World&fontSize=30&fontAlignY=25&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=15&descAlignY=45"/>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🎯 Who Am I?</h3>
+        <p><strong>Nghia Nguyen Trong</strong></p>
+        <p>🇻🇳 Based in Vietnam</p>
+        <p>🎓 AI Engineer & Full Stack Developer</p>
+        <p>💡 Passionate about creating intelligent solutions</p>
+        <p>🌟 Always learning, always growing</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🔥 What I Do?</h3>
+        <p>🤖 Build AI/ML Applications</p>
+        <p>🌐 Develop Full Stack Web Solutions</p>
+        <p>🔧 Create Automation Tools</p>
+        <p>📊 Analyze Data for Insights</p>
+        <p>🚀 Transform Ideas into Reality</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>💭 My Philosophy</h3>
+  <blockquote>
+    <p><em>"Code is not just about solving problems, it's about creating possibilities."</em></p>
+  </blockquote>
+</div>
+
 ```typescript
 const nghia = {
-  name: "Nghia",
-  role: "AI Engineer & Full Stack Developer",
+  name: "Nghia Nguyen Trong",
+  title: "AI Engineer & Full Stack Developer",
   location: "Vietnam 🇻🇳",
-  currentlyLearning: ["Docker", "Web Development", "Data Science", "AI/ML"],
-  goals: ["Become an AI Engineer", "Master Frontend Development"],
-  funFact: "I love solving complex problems with elegant solutions ✨",
+  
+  expertise: {
+    ai: ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
+    web: ["React", "Node.js", "FastAPI", "Full Stack Development"],
+    automation: ["n8n", "Make.com", "Workflow Automation"],
+    data: ["Data Analysis", "Data Visualization", "Statistical Modeling"]
+  },
+  
+  currentlyLearning: [
+    "Advanced AI/ML Algorithms",
+    "Docker & Containerization", 
+    "Cloud Computing",
+    "AI Automation"
+  ],
+  
+  goals: {
+    shortTerm: "Master AI Engineering & MLOps",
+    longTerm: "Build AI solutions that make a real impact",
+    dream: "Contribute to the future of AI technology"
+  },
+  
+  funFacts: [
+    "I can debug code faster than I can make coffee ☕",
+    "I love solving complex problems with elegant solutions ✨",
+    "I believe AI will change the world for the better 🌍"
+  ],
+  
+  motto: "Learn, Build, Share, Repeat 🔄",
+  
   contact: {
-    email: "your.email@example.com",
-    linkedin: "linkedin.com/in/yourprofile"
+    email: "nghianguyen.200303@gmail.com",
+    linkedin: "[linkedin.com/in/yourprofile](https://www.linkedin.com/in/tr%E1%BB%8Dng-ngh%C4%A9a-44a251269/)",
+    github: "github.com/NghiaNT20"
   }
 };
+
+console.log("Ready to build the future with AI! 🚀");
+```
+
+<div align="center">
+  <h3>📊 Quick Stats</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <strong>💻 Projects</strong><br>
+        <span style="font-size: 2em;">10+</span>
+      </td>
+      <td align="center">
+        <strong>🎯 Technologies</strong><br>
+        <span style="font-size: 2em;">15+</span>
+      </td>
+      <td align="center">
+        <strong>☕ Coffee Consumed</strong><br>
+        <span style="font-size: 2em;">∞</span>
+      </td>
+      <td align="center">
+        <strong>🌟 Ideas per Day</strong><br>
+        <span style="font-size: 2em;">100+</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=60&section=footer"/>
+</div>
 ```
 
 ## 🛠️ Tech Stack & Tools
@@ -108,7 +200,7 @@ const nghia = {
 - 👯 I'm looking to collaborate on **Open Source AI projects**
 - 🤔 I'm looking for help with **MLOps and AI model deployment**
 - 💬 Ask me about **Python, JavaScript, AI, and Web Development**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **nghianguyen.200303@gmail.com**
 - ⚡ Fun fact: **I can debug code faster than I can make coffee ☕**
 
 ## 🌐 Connect with Me
