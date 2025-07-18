@@ -174,16 +174,16 @@ console.log("Ready to build the future with AI! 🚀");
 
 ## 🐍 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NghiaNT20&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/NghiaNT20/NghiaNT20/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/NghiaNT20/project1">
+  <a href="[https://github.com/NghiaNT20/project1](https://github.com/NghiaNT20/Driver-Monitoring-System)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NghiaNT20&repo=project1&theme=tokyonight" alt="Project 1"/>
   </a>
-  <a href="https://github.com/NghiaNT20/project2">
+  <a href="[https://github.com/NghiaNT20/project2](https://github.com/NghiaNT20/Resume_Parsing_Yolo_LLM)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NghiaNT20&repo=project2&theme=tokyonight" alt="Project 2"/>
   </a>
 </div>
