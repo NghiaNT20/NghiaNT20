@@ -82,7 +82,7 @@ const nghia = {
   
   contact: {
     email: "nghianguyen.200303@gmail.com",
-    linkedin: "[linkedin.com/in/yourprofile](https://www.linkedin.com/in/tr%E1%BB%8Dng-ngh%C4%A9a-44a251269/)",
+    linkedin: "https://www.linkedin.com/in/tr%E1%BB%8Dng-ngh%C4%A9a-44a251269/",
     github: "github.com/NghiaNT20"
   }
 };
@@ -180,10 +180,10 @@ console.log("Ready to build the future with AI! 🚀");
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="[https://github.com/NghiaNT20/project1](https://github.com/NghiaNT20/Driver-Monitoring-System)">
+  <a href="https://github.com/NghiaNT20/Driver-Monitoring-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NghiaNT20&repo=project1&theme=tokyonight" alt="Project 1"/>
   </a>
-  <a href="[https://github.com/NghiaNT20/project2](https://github.com/NghiaNT20/Resume_Parsing_Yolo_LLM)">
+  <a href="https://github.com/NghiaNT20/Resume_Parsing_Yolo_LLM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NghiaNT20&repo=project2&theme=tokyonight" alt="Project 2"/>
   </a>
 </div>
@@ -206,13 +206,13 @@ console.log("Ready to build the future with AI! 🚀");
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tr%E1%BB%8Dng-ngh%C4%A9a-44a251269/)" target="_blank">
+  <a href="https://www.linkedin.com/in/tr%E1%BB%8Dng-ngh%C4%A9a-44a251269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="[https://instagram.com/yourhandle](https://www.instagram.com/trn.isme/)" target="_blank">
+  <a href="https://www.instagram.com/trn.isme/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:nghianguyen.200303@gmail.com">
