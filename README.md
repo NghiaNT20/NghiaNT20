@@ -1,7 +1,7 @@
 # 👋 Hey, Welcome to My GitHub Profile!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Engineer+%7C+Data+Science+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=435&lines=AI+Engineer;Full+Stack+Developer;Data+Science+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
