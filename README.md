@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=Welcome%20to%20My%20World&fontSize=30&fontAlignY=50&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=15&descAlignY=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=Welcome%20to%20My%20World&fontSize=25&fontAlignY=25&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=15&descAlignY=45"/>
 </div>
 
 <div align="center">
